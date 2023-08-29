@@ -1,15 +1,3 @@
-console.log('Hello World!');
-
-function add(a, b) {
-    return a + b;
-}
-
-let x = add(1, 2);
-
-let y = (a, b) => a + b;
-console.log(x);
-console.log(y(1, 2));
-
 console.log(document);
 
 const list = document.getElementById('ingredients');
